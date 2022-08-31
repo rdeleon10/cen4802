@@ -14,10 +14,7 @@ public class rdimplementationmain {
 		
 		/**
 		 *
-		 * @param n
-		 * n is a variable or number entered by the user
-		 * @return n
-		 * public static int used as n
+		 * 
 		 */
 	    public static int rdfibonaccisequence(int n)
 	    
